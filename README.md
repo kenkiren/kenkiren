@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/017b7f65-3e6c-41cd-a036-d7e7f18320e3" />## Hi there 👋
+ Hi there 👋
 
 <!--
 **kenkiren/kenkiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="45" height="45"/>
-          
-                                                  
-  
 </p>
 
 
@@ -34,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenkiren&show_icons=true&locale=en" alt="fg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fg&" alt="fg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenkiren&" alt="kenkiren" /></p>
